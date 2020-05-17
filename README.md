@@ -5,3 +5,4 @@ With the upcoming cab aggregators and demand for mobility solutions, the past de
 
 This is a Hackathon relating to Mobility Business conducted by Analytics Vidhya . This presentation is about my attempt in tackling the challenge.
 
+I have shared a ppt/pdf with my observations and the code that got me 113 rank (Accuracy: 0.7015). 
